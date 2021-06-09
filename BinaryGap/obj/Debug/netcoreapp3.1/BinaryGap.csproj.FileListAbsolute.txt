@@ -1,0 +1,13 @@
+D:\Kamizelich\BinaryGap\BinaryGap\bin\Debug\netcoreapp3.1\BinaryGap.exe
+D:\Kamizelich\BinaryGap\BinaryGap\bin\Debug\netcoreapp3.1\BinaryGap.deps.json
+D:\Kamizelich\BinaryGap\BinaryGap\bin\Debug\netcoreapp3.1\BinaryGap.runtimeconfig.json
+D:\Kamizelich\BinaryGap\BinaryGap\bin\Debug\netcoreapp3.1\BinaryGap.runtimeconfig.dev.json
+D:\Kamizelich\BinaryGap\BinaryGap\bin\Debug\netcoreapp3.1\BinaryGap.dll
+D:\Kamizelich\BinaryGap\BinaryGap\bin\Debug\netcoreapp3.1\BinaryGap.pdb
+D:\Kamizelich\BinaryGap\BinaryGap\obj\Debug\netcoreapp3.1\BinaryGap.csprojAssemblyReference.cache
+D:\Kamizelich\BinaryGap\BinaryGap\obj\Debug\netcoreapp3.1\BinaryGap.AssemblyInfoInputs.cache
+D:\Kamizelich\BinaryGap\BinaryGap\obj\Debug\netcoreapp3.1\BinaryGap.AssemblyInfo.cs
+D:\Kamizelich\BinaryGap\BinaryGap\obj\Debug\netcoreapp3.1\BinaryGap.csproj.CoreCompileInputs.cache
+D:\Kamizelich\BinaryGap\BinaryGap\obj\Debug\netcoreapp3.1\BinaryGap.dll
+D:\Kamizelich\BinaryGap\BinaryGap\obj\Debug\netcoreapp3.1\BinaryGap.pdb
+D:\Kamizelich\BinaryGap\BinaryGap\obj\Debug\netcoreapp3.1\BinaryGap.genruntimeconfig.cache
