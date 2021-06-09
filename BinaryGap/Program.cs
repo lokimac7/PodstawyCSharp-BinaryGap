@@ -41,7 +41,7 @@ namespace BinaryGap
                             temporaryN++;
                         else
                         {
-                            n = n < temporaryN ? n = temporaryN : n;
+                            n = n < temporaryN ? temporaryN : n;
                             temporaryN = 0;
                         }
                     }
